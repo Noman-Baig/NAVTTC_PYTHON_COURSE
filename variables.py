@@ -17,11 +17,6 @@ tuple_var = (1, 2, 3)
 dict_var = {"key": "value"}
 set_var = {1, 2, 3}
 
-# 6. Constants (by convention, use UPPERCASE)
-
-PI = 3.14159
-MAX_USERS = 100
-
 # 7. Checking Type
 
 print(type(name))     # <class 'str'>
